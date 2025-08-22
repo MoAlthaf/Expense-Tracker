@@ -1,0 +1,4 @@
+2025-08-22 22:13:21,981 - db_helper - INFO - Fetching expenses for date: 2024-08-02
+2025-08-22 22:13:21,981 - db_helper - INFO - Connecting to database. Commit mode: False
+2025-08-22 22:13:22,050 - db_helper - INFO - Fetched 6 expenses.
+2025-08-22 22:13:22,050 - db_helper - INFO - Database connection closed.
