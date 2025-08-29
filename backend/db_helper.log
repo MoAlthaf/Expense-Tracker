@@ -407,3 +407,19 @@
 2025-08-29 16:00:45,930 - db_helper - INFO - Connecting to database. Commit mode: False
 2025-08-29 16:00:45,946 - db_helper - INFO - Fetched summary for 1 categories.
 2025-08-29 16:00:45,946 - db_helper - INFO - Database connection closed.
+2025-08-29 16:01:31,246 - db_helper - INFO - Fetching expense summary from 2025-08-29 to 2025-08-30
+2025-08-29 16:01:31,247 - db_helper - INFO - Connecting to database. Commit mode: False
+2025-08-29 16:01:31,261 - db_helper - INFO - Fetched summary for 1 categories.
+2025-08-29 16:01:31,261 - db_helper - INFO - Database connection closed.
+2025-08-29 16:04:25,290 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-08-29 16:04:25,290 - db_helper - INFO - Connecting to database. Commit mode: False
+2025-08-29 16:04:25,290 - db_helper - INFO - Fetched 10 expenses.
+2025-08-29 16:04:25,290 - db_helper - INFO - Database connection closed.
+2025-08-29 16:04:51,914 - db_helper - INFO - Fetching expense summary from 2024-08-01 to 2024-08-10
+2025-08-29 16:04:51,914 - db_helper - INFO - Connecting to database. Commit mode: False
+2025-08-29 16:04:51,919 - db_helper - INFO - Fetched summary for 5 categories.
+2025-08-29 16:04:51,919 - db_helper - INFO - Database connection closed.
+2025-08-29 16:20:11,932 - db_helper - INFO - Fetching expense summary from 2024-08-01 to 2024-08-06
+2025-08-29 16:20:11,932 - db_helper - INFO - Connecting to database. Commit mode: False
+2025-08-29 16:20:11,948 - db_helper - INFO - Fetched summary for 5 categories.
+2025-08-29 16:20:11,948 - db_helper - INFO - Database connection closed.

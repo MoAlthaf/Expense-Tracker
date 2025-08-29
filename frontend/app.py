@@ -2,6 +2,7 @@ import streamlit as st
 import datetime
 import requests
 import pandas as pd
+import plotly.express as px
 
 API_URL="http://localhost:8000"
 
@@ -76,5 +77,8 @@ with tab_2:
             data = response.json()
             df=pd.DataFrame.from_dict(data,orient='index')
             st.dataframe(df)
+            st.title("Expense Breakdown")
+            fig_bar=px.bar(df,y="total",title="Expense Breakdown by Category",labels={"index":"Category","total":"Total Amount"})
+            st.plotly_chart(fig_bar)
         else:
             st.error("Failed to fetch analytics.")
