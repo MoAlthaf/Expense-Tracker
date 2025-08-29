@@ -423,3 +423,98 @@
 2025-08-29 16:20:11,932 - db_helper - INFO - Connecting to database. Commit mode: False
 2025-08-29 16:20:11,948 - db_helper - INFO - Fetched summary for 5 categories.
 2025-08-29 16:20:11,948 - db_helper - INFO - Database connection closed.
+2025-08-29 16:28:12,334 - db_helper - INFO - Fetching expense summary from 2024-08-01 to 2024-08-06
+2025-08-29 16:28:12,334 - db_helper - INFO - Connecting to database. Commit mode: False
+2025-08-29 16:28:12,350 - db_helper - INFO - Fetched summary for 5 categories.
+2025-08-29 16:28:12,350 - db_helper - INFO - Database connection closed.
+2025-08-29 16:28:57,490 - db_helper - INFO - Deleting expenses for date: 2024-08-01
+2025-08-29 16:28:57,491 - db_helper - INFO - Connecting to database. Commit mode: True
+2025-08-29 16:28:57,504 - db_helper - INFO - Deleted 10 expenses for date: 2024-08-01
+2025-08-29 16:28:57,509 - db_helper - INFO - Transaction committed.
+2025-08-29 16:28:57,509 - db_helper - INFO - Database connection closed.
+2025-08-29 16:28:57,510 - db_helper - INFO - Inserting expense: date=2024-08-01, amount=1233.0, category=Other, notes=Tester
+2025-08-29 16:28:57,510 - db_helper - INFO - Connecting to database. Commit mode: True
+2025-08-29 16:28:57,519 - db_helper - INFO - Inserted 1 expense(s).
+2025-08-29 16:28:57,522 - db_helper - INFO - Transaction committed.
+2025-08-29 16:28:57,522 - db_helper - INFO - Database connection closed.
+2025-08-29 16:28:57,522 - db_helper - INFO - Inserting expense: date=2024-08-01, amount=300.0, category=Food, notes=Groceries for the week
+2025-08-29 16:28:57,523 - db_helper - INFO - Connecting to database. Commit mode: True
+2025-08-29 16:28:57,531 - db_helper - INFO - Inserted 1 expense(s).
+2025-08-29 16:28:57,532 - db_helper - INFO - Transaction committed.
+2025-08-29 16:28:57,533 - db_helper - INFO - Database connection closed.
+2025-08-29 16:28:57,533 - db_helper - INFO - Inserting expense: date=2024-08-01, amount=1200.0, category=Rent, notes=Monthly rent payment
+2025-08-29 16:28:57,533 - db_helper - INFO - Connecting to database. Commit mode: True
+2025-08-29 16:28:57,542 - db_helper - INFO - Inserted 1 expense(s).
+2025-08-29 16:28:57,545 - db_helper - INFO - Transaction committed.
+2025-08-29 16:28:57,546 - db_helper - INFO - Database connection closed.
+2025-08-29 16:28:57,546 - db_helper - INFO - Inserting expense: date=2024-08-01, amount=300.0, category=Food, notes=Groceries for the week
+2025-08-29 16:28:57,546 - db_helper - INFO - Connecting to database. Commit mode: True
+2025-08-29 16:28:57,553 - db_helper - INFO - Inserted 1 expense(s).
+2025-08-29 16:28:57,556 - db_helper - INFO - Transaction committed.
+2025-08-29 16:28:57,557 - db_helper - INFO - Database connection closed.
+2025-08-29 16:28:57,557 - db_helper - INFO - Inserting expense: date=2024-08-01, amount=30.0, category=Food, notes=5 star
+2025-08-29 16:28:57,558 - db_helper - INFO - Connecting to database. Commit mode: True
+2025-08-29 16:28:57,566 - db_helper - INFO - Inserted 1 expense(s).
+2025-08-29 16:28:57,568 - db_helper - INFO - Transaction committed.
+2025-08-29 16:28:57,568 - db_helper - INFO - Database connection closed.
+2025-08-29 16:28:57,569 - db_helper - INFO - Inserting expense: date=2024-08-01, amount=20.0, category=Food, notes=5 star
+2025-08-29 16:28:57,569 - db_helper - INFO - Connecting to database. Commit mode: True
+2025-08-29 16:28:57,575 - db_helper - INFO - Inserted 1 expense(s).
+2025-08-29 16:28:57,577 - db_helper - INFO - Transaction committed.
+2025-08-29 16:28:57,577 - db_helper - INFO - Database connection closed.
+2025-08-29 16:28:57,577 - db_helper - INFO - Inserting expense: date=2024-08-01, amount=13.0, category=Food, notes=5 star
+2025-08-29 16:28:57,577 - db_helper - INFO - Connecting to database. Commit mode: True
+2025-08-29 16:28:57,582 - db_helper - INFO - Inserted 1 expense(s).
+2025-08-29 16:28:57,584 - db_helper - INFO - Transaction committed.
+2025-08-29 16:28:57,584 - db_helper - INFO - Database connection closed.
+2025-08-29 16:28:57,584 - db_helper - INFO - Inserting expense: date=2024-08-01, amount=10.0, category=Food, notes=5 star
+2025-08-29 16:28:57,584 - db_helper - INFO - Connecting to database. Commit mode: True
+2025-08-29 16:28:57,586 - db_helper - INFO - Inserted 1 expense(s).
+2025-08-29 16:28:57,586 - db_helper - INFO - Transaction committed.
+2025-08-29 16:28:57,586 - db_helper - INFO - Database connection closed.
+2025-08-29 16:28:57,586 - db_helper - INFO - Inserting expense: date=2024-08-01, amount=500.0, category=Food, notes=5 star
+2025-08-29 16:28:57,586 - db_helper - INFO - Connecting to database. Commit mode: True
+2025-08-29 16:28:57,586 - db_helper - INFO - Inserted 1 expense(s).
+2025-08-29 16:28:57,586 - db_helper - INFO - Transaction committed.
+2025-08-29 16:28:57,586 - db_helper - INFO - Database connection closed.
+2025-08-29 16:28:57,586 - db_helper - INFO - Inserting expense: date=2024-08-01, amount=100.0, category=Food, notes=5 star
+2025-08-29 16:28:57,586 - db_helper - INFO - Connecting to database. Commit mode: True
+2025-08-29 16:28:57,604 - db_helper - INFO - Inserted 1 expense(s).
+2025-08-29 16:28:57,606 - db_helper - INFO - Transaction committed.
+2025-08-29 16:28:57,606 - db_helper - INFO - Database connection closed.
+2025-08-29 16:28:59,638 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-08-29 16:28:59,639 - db_helper - INFO - Connecting to database. Commit mode: False
+2025-08-29 16:28:59,639 - db_helper - INFO - Fetched 10 expenses.
+2025-08-29 16:28:59,639 - db_helper - INFO - Database connection closed.
+2025-08-29 16:29:05,035 - db_helper - INFO - Fetching expense summary from 2024-08-01 to 2024-08-06
+2025-08-29 16:29:05,035 - db_helper - INFO - Connecting to database. Commit mode: False
+2025-08-29 16:29:05,051 - db_helper - INFO - Fetched summary for 5 categories.
+2025-08-29 16:29:05,051 - db_helper - INFO - Database connection closed.
+2025-08-29 16:31:31,944 - db_helper - INFO - Fetching expense summary from 2024-08-01 to 2024-08-06
+2025-08-29 16:31:31,944 - db_helper - INFO - Connecting to database. Commit mode: False
+2025-08-29 16:31:31,958 - db_helper - INFO - Fetched summary for 5 categories.
+2025-08-29 16:31:31,958 - db_helper - INFO - Database connection closed.
+2025-08-29 16:31:56,599 - db_helper - INFO - Fetching expense summary from 2024-08-01 to 2024-08-06
+2025-08-29 16:31:56,599 - db_helper - INFO - Connecting to database. Commit mode: False
+2025-08-29 16:31:56,611 - db_helper - INFO - Fetched summary for 5 categories.
+2025-08-29 16:31:56,611 - db_helper - INFO - Database connection closed.
+2025-08-29 16:32:15,542 - db_helper - INFO - Fetching expenses for date: 2025-08-29
+2025-08-29 16:32:15,542 - db_helper - INFO - Connecting to database. Commit mode: False
+2025-08-29 16:32:15,549 - db_helper - INFO - Fetched 1 expenses.
+2025-08-29 16:32:15,549 - db_helper - INFO - Database connection closed.
+2025-08-29 16:32:26,047 - db_helper - INFO - Fetching expense summary from 2025-08-22 to 2025-08-29
+2025-08-29 16:32:26,047 - db_helper - INFO - Connecting to database. Commit mode: False
+2025-08-29 16:32:26,047 - db_helper - INFO - Fetched summary for 1 categories.
+2025-08-29 16:32:26,047 - db_helper - INFO - Database connection closed.
+2025-08-29 16:38:41,344 - db_helper - INFO - Fetching expense summary from 2025-08-22 to 2025-08-29
+2025-08-29 16:38:41,344 - db_helper - INFO - Connecting to database. Commit mode: False
+2025-08-29 16:38:41,357 - db_helper - INFO - Fetched summary for 1 categories.
+2025-08-29 16:38:41,357 - db_helper - INFO - Database connection closed.
+2025-08-29 16:39:51,351 - db_helper - INFO - Fetching expense summary from 2025-08-22 to 2025-08-29
+2025-08-29 16:39:51,351 - db_helper - INFO - Connecting to database. Commit mode: False
+2025-08-29 16:39:51,366 - db_helper - INFO - Fetched summary for 1 categories.
+2025-08-29 16:39:51,366 - db_helper - INFO - Database connection closed.
+2025-08-29 16:40:10,092 - db_helper - INFO - Fetching expense summary from 2024-08-01 to 2024-08-07
+2025-08-29 16:40:10,092 - db_helper - INFO - Connecting to database. Commit mode: False
+2025-08-29 16:40:10,097 - db_helper - INFO - Fetched summary for 5 categories.
+2025-08-29 16:40:10,098 - db_helper - INFO - Database connection closed.
