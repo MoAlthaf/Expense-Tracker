@@ -107,8 +107,8 @@ if __name__ == "__main__":
     print(rows)
 
     # Insert example
-    # inserted = insert_expense("2024-08-21", 19.99, "Food", "Lunch")
-    # print("Inserted:", inserted)
+    #inserted = insert_expense("2024-08-21", 1999.99, "Food", "Lunch and Dinner")
+    #print("Inserted:", inserted)
 
     # Delete example
     # deleted = delete_expense_for_date("2024-08-02")
